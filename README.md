@@ -20,3 +20,6 @@ Welcome to my repository tracking my progress across **141 foundational DSA prob
 - **Platform:** LeetCode / GeeksforGeeks
 
 *Every solution is created and organized manually from my local machine.*
+
+
+Owner : Mohit Kumar Rana
