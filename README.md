@@ -15,8 +15,8 @@ Welcome to my repository tracking my progress across **141 foundational DSA prob
 - [ ] **Binary Search** (Problems 136-141)
 
 ## Tech Stack
-- **Language:** Java ?
-- **IDE:** Visual Studio Code ??
+- **Language:** Java 
+- **IDE:** Visual Studio Code 
 - **Platform:** LeetCode / GeeksforGeeks
 
 *Every solution is created and organized manually from my local machine.*
